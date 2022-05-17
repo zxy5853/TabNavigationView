@@ -1,4 +1,4 @@
-package com.szx.tabnavigationview.widget;
+package com.szx.tabview.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -12,11 +12,12 @@ import android.widget.RelativeLayout;
 
 import androidx.viewpager.widget.ViewPager;
 
-import com.szx.tabnavigationview.R;
-import com.szx.tabnavigationview.adapter.BaseAdapter;
-import com.szx.tabnavigationview.adapter.TabViewPagerAdapter;
-import com.szx.tabnavigationview.listener.OnTabSelectedListener;
-import com.szx.tabnavigationview.tools.DisplayUtil;
+import com.szx.tabview.R;
+import com.szx.tabview.adapter.BaseAdapter;
+import com.szx.tabview.adapter.TabViewPagerAdapter;
+import com.szx.tabview.listener.OnTabSelectedListener;
+import com.szx.tabview.tools.DisplayUtil;
+
 
 /**
  * Created by chengxi on 17/4/26.

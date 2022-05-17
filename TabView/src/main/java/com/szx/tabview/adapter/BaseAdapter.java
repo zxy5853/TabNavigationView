@@ -1,4 +1,4 @@
-package com.szx.tabnavigationview.adapter;
+package com.szx.tabview.adapter;
 
 
 import androidx.fragment.app.Fragment;

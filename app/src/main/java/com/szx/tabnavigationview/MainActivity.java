@@ -6,11 +6,10 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
-import com.szx.tabnavigationview.adapter.MainViewAdapter;
-import com.szx.tabnavigationview.listener.OnTabSelectedListener;
-import com.szx.tabnavigationview.widget.Tab;
-import com.szx.tabnavigationview.widget.TabContainerView;
-
+import com.szx.tabview.adapter.MainViewAdapter;
+import com.szx.tabview.listener.OnTabSelectedListener;
+import com.szx.tabview.widget.Tab;
+import com.szx.tabview.widget.TabContainerView;
 
 public class MainActivity extends AppCompatActivity {
 

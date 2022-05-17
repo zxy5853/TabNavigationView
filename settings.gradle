@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TabNavigationView"
 include ':app'
+include ':TabView'

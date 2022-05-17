@@ -1,4 +1,4 @@
-package com.szx.tabnavigationview.widget;
+package com.szx.tabview.widget;
 
 import android.content.Context;
 import android.util.TypedValue;
@@ -10,8 +10,9 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.szx.tabnavigationview.listener.OnTabSelectedListener;
-import com.szx.tabnavigationview.tools.DisplayUtil;
+import com.szx.tabview.listener.OnTabSelectedListener;
+import com.szx.tabview.tools.DisplayUtil;
+
 
 /**
  * Created by chengxi on 17/4/26.

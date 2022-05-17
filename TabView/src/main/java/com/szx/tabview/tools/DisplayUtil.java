@@ -1,4 +1,4 @@
-package com.szx.tabnavigationview.tools;
+package com.szx.tabview.tools;
 
 import android.content.Context;
 

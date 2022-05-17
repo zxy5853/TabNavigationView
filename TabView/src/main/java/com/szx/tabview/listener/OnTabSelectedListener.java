@@ -1,7 +1,7 @@
-package com.szx.tabnavigationview.listener;
+package com.szx.tabview.listener;
 
 
-import com.szx.tabnavigationview.widget.Tab;
+import com.szx.tabview.widget.Tab;
 
 /**
  * Created by chengxi on 17/4/26.
